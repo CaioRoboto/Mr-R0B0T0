@@ -12,7 +12,7 @@
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="right" alt="Rafa-yoda" src="https://pa1.narvii.com/7600/bc91a2e2d3600b9c41d56792e0433f7c1f483fc7r1-262-355_128.gif">
+  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/813425418585505802/890506522524786688/tumblr_mqu238Cng11rfw7flo1_400.gif">
 </div>
   
   
