@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente fazendo um canal no yt de tech
 - 🌱 Eu estou estudando engenharia mecatronica.
-- 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Roboto
 
  <div>
