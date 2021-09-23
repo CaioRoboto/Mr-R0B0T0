@@ -3,6 +3,7 @@
 - 🔭 Atualmente fazendo um canal no yt de tech
 - 🌱 Eu estou estudando engenharia mecatronica.
 - ⚡ Fun fact: Roboto
+- 👨‍💻 Male
 
  <div>
   <a href="https://github.com/Mr-R0B0T0">
