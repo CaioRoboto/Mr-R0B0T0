@@ -1,6 +1,5 @@
 ## Olá SOU CAIO 20y 👋
 
-- 🔭 Atualmente fazendo um canal no yt de tech
 - 🌱 Eu estou estudando engenharia mecatronica.
 - ⚡ Fun fact: Roboto
 - 👨‍💻 Male
